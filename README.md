@@ -1,6 +1,6 @@
-# Selenium_UI_Automation_Logging_Reporting (Extent Reports + Log4Net)
+# Selenium_UI_Automation_BDD (Specflow)
 ## Description:
-On the top of Selenium UI Test Automation Framework with POM, we are ready to add log and report functionalities to our framework.
+This is the final On the top of Selenium UI Test Automation Framework with POM, we are ready to add log and report functionalities to our framework.
 Log and report give us very valuable information for debugging. Extent Report fulfill both functionalities. 
 Log can be written in multiple levels and it creates a beautiful HTML report.  When the tests are failed, a user can not only log them but also tak snapshots, so these will act as fingerprints in the framework. Html reports are interactive.
 Since I don't control nor maintain these websites, some tests might be broken as these webistes are being updated. But as of 4/16/2018, every test in this framework works fine!!!  
@@ -9,7 +9,8 @@ This is the third part of the entire series of Selenium UI Test Automation.
 ### Roadmap for Selenium UI Test Automation Series:
 1> Selenium_UI_Automation Without POM - Manily Focus on Selenium API Functionalities  
 2> Selenium_UI_Automation With POM - The Structure and Creating of POM  
-**3> Selenium_UI_Automation With Logging and Reporting Functionalities.(Extent Report) - How to Logging and Reporting using Extent Reports in a Selenium framework**          
+3> Selenium_UI_Automation With Logging and Reporting Functionalities.(Extent Report) - How to Logging and Reporting using Extent Reports in a Selenium framework     
+**4> Selenium_UI_Automation With Behavior Driven Development(BDD) Using Specflow - How to implment BDD to the framework using Specflow**
 
 I might add more series as needed to showcase UI Automation with Selenium.  
 
