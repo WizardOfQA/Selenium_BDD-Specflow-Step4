@@ -27,4 +27,5 @@ I might add more series as needed to showcase UI Automation with Selenium.
 ### Orbitz.com
 * sf_User_Can_Search_Vacation_Rental
 * sf_User_Can_Search_Rental_Car_With_Advanced_Options
+
 ![sf1](https://user-images.githubusercontent.com/25840262/39570297-b5ee827e-4e7c-11e8-832b-0a39ecc039a7.PNG)
