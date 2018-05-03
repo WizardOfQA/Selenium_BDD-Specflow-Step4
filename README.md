@@ -17,15 +17,13 @@ I might add more series as needed to showcase UI Automation with Selenium.
 
 ## Specflow
 ### Some Advantages of Using Specflow
-* Responsive and beautiful UI
-* Easy to read PIE chart.
-* Provides dashboard for the whole test
-* Multiple levels of logging functionality
-* Screenshots can also be inserted to the report
-* Host Name, OS, Author Name, Environment can be added.
+* Collaboration. Even without programming skill, anybody can write the test.
+* Everybody is in the same page. Developers, Automation Testers, Manual Testers, Business Analyst, Managers etc.
+* Feature files that contain scenarios become living documents. 
+* Reduces code duplication.
+* It automatically gives QA acceptance criteria.
  
 ## Sameple Test Cases Covered:
 ### Orbitz.com
-* User_Can_Search_Vacation_Rental
-* User_Can_Search_Rental_Car_With_Advanced_Options
-* Test_To_Be_Failed **Please Note that this test case is failed intentionally to show the functionality of Extent 
+* sf_User_Can_Search_Vacation_Rental
+* sf_User_Can_Search_Rental_Car_With_Advanced_Options
